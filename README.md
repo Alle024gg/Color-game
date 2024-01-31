@@ -2,4 +2,4 @@
 
 ## Live
 
-[Alle024gg.github.io](https://alle024gg.github.io/Color-game/)
+[Alle024gg.github.io](https://alle024gg.github.io/Hunt-the-Ace/)
