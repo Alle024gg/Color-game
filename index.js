@@ -1,11 +1,11 @@
 const cardObjectDefinitions = [
-  { id: 1, imagePath: "/images/k.png" },
-  { id: 2, imagePath: "/images/J.png" },
-  { id: 3, imagePath: "/images/q.png" },
-  { id: 4, imagePath: "/images/A.png" },
+  { id: 1, imagePath: "images/k.png" },
+  { id: 2, imagePath: "images/J.png" },
+  { id: 3, imagePath: "images/q.png" },
+  { id: 4, imagePath: "images/A.png" },
 ];
 const aceId = 4;
-const cardBackImgPath = "/images/back.png";
+const cardBackImgPath = "images/back.png";
 let cards = [];
 
 const playGameButtonElem = document.getElementById("playGame");
